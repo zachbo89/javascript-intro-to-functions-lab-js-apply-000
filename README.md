@@ -39,7 +39,7 @@ describe('shout(string)', function() => {
   // there's stuff in here, too
 })
 ```
-
+#2
 `describe` is a function provided by our test runner (in this case, we're using [Mocha](https://mochajs.org/)) — it's basically a container for our tests.
 
 Let's take a closer look at that `describe()`:
